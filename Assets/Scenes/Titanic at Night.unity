@@ -735,7 +735,7 @@ PrefabInstance:
     - target: {fileID: 5856978672239375769, guid: 79a83fb198a767f4a84f071c5c235df0,
         type: 3}
       propertyPath: m_Name
-      value: Titanic+eau
+      value: Titanic
       objectReference: {fileID: 0}
     - target: {fileID: 5856978672239375770, guid: 79a83fb198a767f4a84f071c5c235df0,
         type: 3}
